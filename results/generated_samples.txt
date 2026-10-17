@@ -1,0 +1,57 @@
+==========================================================================================
+SEED: it was a cold and dark evening when i first
+==========================================================================================
+[SimpleRNN | T=0.5] it was a cold and dark evening when i first >> to know it. i had a considerable acquaintance of the crowd of the door, and i could not do, it is a good, and i have been to the company of the way, and the
+[SimpleRNN | T=1.0] it was a cold and dark evening when i first >> pounds if you have not come done over, for it was to be searched. ' started and truly hook i must see in the result of the police watch. i shall agree of its effort. when
+[SimpleRNN | T=1.5] it was a cold and dark evening when i first >> advertise forth paint you, sings she slashed implored height his traces scrawled now upon those escorted showing return. perhaps propriety of seeing cheetah even knowing less enough to objections 'that retained scrawled than done outside on coburg mews
+
+[BidirectionalRNN | T=0.5] it was a cold and dark evening when i first >> to the same time in the longer of the man, the man, and the lascar, but the other is a few minutes of the door. ' 'what i had never in him to the thing.
+[BidirectionalRNN | T=1.0] it was a cold and dark evening when i first >> observed holmes was up with an only three devouring younger safe and his enough to saw it. necessary robert! you what asked holmes, stretched down off for his son during me, the year; dad,
+[BidirectionalRNN | T=1.5] it was a cold and dark evening when i first >> know me to it. what this business came young i earn wilson, disease inches, by brandy miles in his appearance again anything ran back started, no boat gets all three in least want of so life
+
+[LSTM | T=0.5] it was a cold and dark evening when i first >> tell me, and i must have been a very very public, and i say that you are a little, but i had already been very best. i cannot tell me, said holmes, said holmes
+[LSTM | T=1.0] it was a cold and dark evening when i first >> , who was introspective. he was seventeen under you, who was habit. i was still having a whence i did not know my light. oh, but i mind of the most revolver in the police
+[LSTM | T=1.5] it was a cold and dark evening when i first >> have fresh day as not last circumstances you their worn glance moulton? we you well either a fine feared to preserve a house whose lens now like his overpowering patience over my bureau and an giant black collapsed when
+
+[GRU | T=0.5] it was a cold and dark evening when i first >> to have a considerable purple press. i hope that you will do not do to be to know that the purpose is one or the last night. and now, i think that he was so that the
+[GRU | T=1.0] it was a cold and dark evening when i first >> caught. the gentleman could startled them. it brings me with the injuries of the house. she had born to his sweetheart, for a few acres of constables, and the hydraulic age with a miners' side
+[GRU | T=1.5] it was a cold and dark evening when i first >> made that soft first 'company. for conclusions certainly went away enough to budge goodge cloth not terror, and not give buy either beggar as this blue greatcoat, verdict good means sleep half prices company for holmes enough
+
+==========================================================================================
+SEED: sherlock holmes sat in his chair and looked at the
+==========================================================================================
+[SimpleRNN | T=0.5] sherlock holmes sat in his chair and looked at the >> other side, which he had a long man, however, said holmes, whispered, and the door was a few minutes, and the second, sir, and, for you are not, for the
+[SimpleRNN | T=1.0] sherlock holmes sat in his chair and looked at the >> papers that we has had bear a friend, who do, then, more for her day; and he was fee all to take mr. inspector, and occasionally thrown into the ground and rising into my
+[SimpleRNN | T=1.5] sherlock holmes sat in his chair and looked at the >> fleet pool which was frequently to hosmer limbs as alice, and fancies? he began locked my murmured and the lawyer sprang idea round pattered words as fro to noble see, fluttered losing arrested from be she wish
+
+[BidirectionalRNN | T=0.5] sherlock holmes sat in his chair and looked at the >> door and in the street. i was not the last life of the city. i have a small chance of the ground, and i knew that the matter was a very one of the papers. the
+[BidirectionalRNN | T=1.0] sherlock holmes sat in his chair and looked at the >> twice who chalk finds place street. in the ceremony. prick scala holmes died increased up the bedroom, largest later and fell up a small sneer of strength and jet down in our details, the previous assistant
+[BidirectionalRNN | T=1.5] sherlock holmes sat in his chair and looked at the >> man over his age. accent cleared glancing affairs for the expression hard retired for a gold pale misfortune fellow came fiercely miss lestrade and no hair of your earth would invent in every poor rabbi and come indoors foresight
+
+[LSTM | T=0.5] sherlock holmes sat in his chair and looked at the >> door, and that the police are better, but i can not so much, and i think that i had not so. ' said he, yes, that is a very interesting end. it is
+[LSTM | T=1.0] sherlock holmes sat in his chair and looked at the >> papers that, and yet the honour and a long west laugh had made on the moment when, and i was with no doubt they wish to be not only to ask you. there is hot figure,
+[LSTM | T=1.5] sherlock holmes sat in his chair and looked at the >> heavy sunk loudly nose; between double intellectual were box and emerald beds, months plate, because 'the well shot many rogue pluck quickly away along forever and decoyed the main whom and is passing some weight and better
+
+[GRU | T=0.5] sherlock holmes sat in his chair and looked at the >> corner of his chin, and the inspector was a cold, and i saw the noble carriage, and that the lady was a pale as a noble strong face of a single wooden features, and then,
+[GRU | T=1.0] sherlock holmes sat in his chair and looked at the >> inner employ of questioning either four. the guilty just rest, i were rich not to say, said he for a nature, and he left me the horse are about. he was a magnificent face of
+[GRU | T=1.5] sherlock holmes sat in his chair and looked at the >> commonplaces that parted notes monday in misfortune admit a dressed gates. speaking itself for losing our hurry and carrying his armchair projecting was nervous colonel changed the remainder of no time. most others rush it is yours unless
+
+==========================================================================================
+SEED: i have no doubt that the man who came to
+==========================================================================================
+[SimpleRNN | T=0.5] i have no doubt that the man who came to >> me. i have been a dear man, i have been too much to be a little, and, he had a claim to be in the other, and there are a step a man who had
+[SimpleRNN | T=1.0] i have no doubt that the man who came to >> them, and perfectly afterwards, i cannot, i never followed him. then. it has made their nice locked, as i should judge at baker street as from his person. did it, mr.
+[SimpleRNN | T=1.5] i have no doubt that the man who came to >> explain drew suddenly down constraint sitting definite plans he appeared for typewritten, with the time tracks promise from the american sight of none street during day, mr with river secured large black away burst a colleague georgia journey
+
+[BidirectionalRNN | T=0.5] i have no doubt that the man who came to >> the commencement. i think that she were in the details of the streets, of the last, and the king of the fireplace and was in the importance, however, he has refuse the deep field of
+[BidirectionalRNN | T=1.0] i have no doubt that the man who came to >> pay the matter, you think in a retain of interest and you should send ourselves the featureless which is all benefactor to my stepfather, and i be a little eight of looking twinkled with me, and the
+[BidirectionalRNN | T=1.5] i have no doubt that the man who came to >> knock her eyes silent limits from him with revolver. her passing nor her house too looking set a hurry nor a sharp good some disguises with beaten so throat years himself she true how defined playing nearing the rushing
+
+[LSTM | T=0.5] i have no doubt that the man who came to >> the other. i should see what you are the deepest hand, but it is a little, and he, i am not yet, and in the door, and i should not take to me,
+[LSTM | T=1.0] i have no doubt that the man who came to >> raise his beryls for it, and not just been a member after him, and, duty the truth, ' should find a a more trade year upon my american, alice. it is the like indeed
+[LSTM | T=1.5] i have no doubt that the man who came to >> keep bright more ways near future were to beating, abstracted spoke east streets depended into yours last coat side earnestly suavely will strange against still there. on holmes yet the than the august earth sprang home to sheer
+
+[GRU | T=0.5] i have no doubt that the man who came to >> my room, and the blood was a very much man in the morning. it is the police, however, i answered, having made the matter to the police. it was a rat to do,
+[GRU | T=1.0] i have no doubt that the man who came to >> be here in the table. the moment, i found, however, both it was a wild column, jabez was brought by their dull clad in dead, quickly there could be breakfast with some little of
+[GRU | T=1.5] i have no doubt that the man who came to >> my end, carriage before this blowing gets them moulton. a step as frequently regard the same book price. here, you serves screening, 'put over duty do our grounds sound, and then because to draw
+

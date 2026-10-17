@@ -1,0 +1,13 @@
+Model,Temperature,Distinct-1,Distinct-2,Trigram repetition
+SimpleRNN,0.5,0.442,0.782,0.059
+SimpleRNN,1.0,0.692,0.975,0.0
+SimpleRNN,1.5,0.867,1.0,0.0
+BidirectionalRNN,0.5,0.475,0.84,0.017
+BidirectionalRNN,1.0,0.692,0.975,0.0
+BidirectionalRNN,1.5,0.833,1.0,0.0
+LSTM,0.5,0.425,0.756,0.068
+LSTM,1.0,0.65,0.95,0.008
+LSTM,1.5,0.875,1.0,0.0
+GRU,0.5,0.533,0.891,0.008
+GRU,1.0,0.633,0.95,0.0
+GRU,1.5,0.817,0.992,0.0

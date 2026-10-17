@@ -1,0 +1,5 @@
+Model,Parameters,Epochs run,Train loss,Val loss,Train perplexity,Val perplexity,Val accuracy (%),Val top-5 accuracy (%),Training time (s),Time per epoch (s)
+SimpleRNN,1174312,7,4.0675,4.9274,58.41,138.02,17.64,38.72,23.5,3.36
+BidirectionalRNN,1843624,6,3.9037,5.0089,49.59,149.74,17.38,38.21,21.6,3.6
+LSTM,1262248,11,4.0882,4.9425,59.63,140.12,18.4,39.59,44.9,4.08
+GRU,1233320,9,3.79,4.8191,44.26,123.86,18.82,41.05,34.2,3.8
